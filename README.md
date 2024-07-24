@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shuggy999
 - 👀 I’m interested in python and other stuff
-- 🌱 I’m currently learning the iGCSE Computer Science course
+- 🌱 I’m currently learning the A Level Computer Science course
 - 💞️ I’m looking to collaborate on anything (i'm not great at coding)
 - 📫 Reach me at hugoedgar.com
 - 🇮🇹 Io studio un poco italiano
