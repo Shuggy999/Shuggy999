@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shuggy999
 - 👀 I’m interested in python and other stuff
-- 🌱 I’m did the IGCSE Computer Scince exam a year earlt, and will wait for next year before commensing the CCEA A Level Computer Science
-- 💞️ I’m looking to collaborate on anything (i'm not great at coding)
+- 🌱 I’m doing the CCEA A Level Computer Science course at the moment
 - 📫 Reach me at hugoedgar.com
 - 🇮🇹 Parlo un po' d'italiano
 
