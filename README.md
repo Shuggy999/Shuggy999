@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shuggy999
 - 👀 I’m interested in python and other stuff
-- 🌱 I’m doing the WJEC AS Level Computer Science course at the moment
+- 🌱 I am currently studying WJEC A2 Level Computer Science 
 - 📫 Reach me at hugoedgar.com
 - 🇮🇹 Parlo un po' d'italiano
 
